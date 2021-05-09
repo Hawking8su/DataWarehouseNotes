@@ -97,7 +97,7 @@ It's the path of least resistance for fast development at relatively low cost, a
 
 ### Hub-and-Spoke Corporate Information Factory Inmon Architecture
 
-![image-20210509234740878](E:\04_Blog\DWToolkit-DimensionalModeling-Kimball\01-DW,BI,DimensionalModeling.assets\image-20210509234740878.png)
+![image-20210509234740878](https://raw.githubusercontent.com/Hawking8su/Images/main/20210510000832.png)
 
 ### Hybrid  Hub-and-Spoke  and Kimball Architecture
 
